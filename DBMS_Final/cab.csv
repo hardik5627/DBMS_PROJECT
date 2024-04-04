@@ -1,0 +1,1001 @@
+DriverID,CabType,CabModel,CabMake,CabSeats,CabColor,LicenseNumber,FuelType
+1,prime SUV,911,Porsche,5,Maroon,OT72IH9454,diesel
+2,prime SUV,Firefly,Pontiac,3,Goldenrod,QA52HQ4404,diesel
+3,prime play,Galant,Mitsubishi,2,Violet,LA82FL7454,diesel
+4,prime SUV,Impala,Chevrolet,4,Pink,ET52ZN0414,diesel
+5,prime SUV,Econoline E150,Ford,3,Red,HG42UA9444,diesel
+6,prime SUV,Elantra,Hyundai,2,Purple,EY82AE2484,cng
+7,prime SUV,Focus,Ford,2,Indigo,RF82CD5494,diesel
+8,prime play,Discovery,Land Rover,5,Goldenrod,PE42NM4424,petrol
+9,prime sedan,Ranger,Ford,2,Puce,AZ22RU8454,cng
+10,prime SUV,Grand Cherokee,Jeep,3,Violet,HP62ID4434,diesel
+11,prime play,tC,Scion,4,Blue,MQ52FV9404,cng
+12,prime sedan,Grand Am,Pontiac,4,Fuscia,LA82PF3404,cng
+13,prime SUV,1500 Club Coupe,GMC,4,Orange,OB62YW1464,diesel
+14,prime sedan,RAV4,Toyota,2,Aquamarine,UW52NV4494,diesel
+15,prime SUV,Veloster,Hyundai,3,Khaki,VU82QS8484,diesel
+16,prime sedan,Astro,Chevrolet,5,Teal,ZE52PB1414,cng
+17,prime SUV,Skyhawk,Buick,5,Orange,XI72RI8404,diesel
+18,prime play,Esprit,Lotus,5,Crimson,AH32VE8474,diesel
+19,prime SUV,968,Porsche,3,Fuscia,TT02NX3484,petrol
+20,prime sedan,F350,Ford,3,Orange,EE92BR3464,petrol
+21,prime sedan,S-Type,Jaguar,5,Maroon,BZ02TU8484,cng
+22,prime sedan,Uplander,Chevrolet,3,Yellow,ES72VG5454,diesel
+23,prime sedan,Mazda2,Mazda,5,Puce,WG62OG3474,cng
+24,prime SUV,Ion,Saturn,5,Purple,XC12TO1424,diesel
+25,prime play,Ram Van 1500,Dodge,2,Violet,BY72EP3444,cng
+26,prime sedan,S40,Volvo,2,Yellow,TO72AL9464,petrol
+27,prime play,Expedition,Ford,4,Red,ZA32YP1424,petrol
+28,prime play,Festiva,Ford,2,Purple,BJ62WS3414,cng
+29,prime play,Sportvan G20,Chevrolet,2,Maroon,PG32ST5444,petrol
+30,prime SUV,xD,Scion,2,Orange,BO92GU8454,diesel
+31,prime SUV,LaCrosse,Buick,2,Red,AA62UK3404,petrol
+32,prime play,Xterra,Nissan,5,Pink,OV12UP1454,diesel
+33,prime play,L300,Mitsubishi,3,Turquoise,GP02RY5464,petrol
+34,prime sedan,Astro,Chevrolet,2,Puce,UL02JO1474,diesel
+35,prime sedan,Chariot,Mitsubishi,4,Purple,AV82FL3434,petrol
+36,prime play,GTI,Volkswagen,3,Goldenrod,DO42GO1494,diesel
+37,prime play,Pajero,Mitsubishi,5,Purple,NK32GL0464,diesel
+38,prime SUV,960,Volvo,4,Puce,OE82HR5474,petrol
+39,prime SUV,A6,Audi,4,Maroon,CJ02CI7424,cng
+40,prime play,S2000,Honda,3,Purple,CK42EH8424,cng
+41,prime play,XF,Jaguar,3,Turquoise,LQ22DN7464,cng
+42,prime sedan,9-5,Saab,4,Goldenrod,MA82QB6474,petrol
+43,prime SUV,Land Cruiser,Toyota,4,Orange,HJ72IQ2414,diesel
+44,prime sedan,Accent,Hyundai,3,Fuscia,GR32KT5434,petrol
+45,prime sedan,FJ Cruiser,Toyota,3,Blue,TX22XL5444,cng
+46,prime play,RAV4,Toyota,5,Fuscia,VE02UZ7444,cng
+47,prime sedan,rio,Volkswagen,4,Yellow,QS72HN8494,diesel
+48,prime sedan,Outlander,Mitsubishi,2,Pink,XM12JI3434,diesel
+49,prime SUV,Savana 1500,GMC,2,Pink,RU72KD5434,petrol
+50,prime sedan,Thunderbird,Ford,2,Red,ZN02LC6474,diesel
+51,prime sedan,Equinox,Chevrolet,3,Violet,KL62XN8414,cng
+52,prime play,Discovery,Land Rover,3,Fuscia,UQ62TE8494,diesel
+53,prime sedan,B-Series Plus,Mazda,3,Orange,NE12AT4414,cng
+54,prime SUV,370Z,Nissan,4,Aquamarine,HI92AS7434,petrol
+55,prime SUV,S-Series,Saturn,4,Purple,RL02ND1404,cng
+56,prime SUV,Breeze,Plymouth,3,Yellow,NY42NH4404,petrol
+57,prime sedan,Century,Buick,3,Maroon,NZ42YU1464,diesel
+58,prime play,Ranger,Ford,5,Fuscia,MS42ZH7464,petrol
+59,prime play,Suburban,Chevrolet,5,Teal,WO52JF6414,petrol
+60,prime sedan,Mazda5,Mazda,3,Violet,CU72EQ6454,diesel
+61,prime SUV,Taurus,Ford,3,Puce,NS72IJ3494,cng
+62,prime play,Durango,Dodge,4,Violet,XH52ZP0404,cng
+63,prime SUV,Escort ZX2,Ford,5,Pink,GQ82JM5424,cng
+64,prime sedan,Accord,Honda,4,Blue,CW52ZF6464,cng
+65,prime play,Vantage,Aston Martin,5,Crimson,GE72YY5454,diesel
+66,prime SUV,Avalon,Toyota,3,Goldenrod,EZ12GO2474,cng
+67,prime SUV,Eldorado,Cadillac,3,Turquoise,OJ82BU6474,diesel
+68,prime play,Laser,Ford,5,Turquoise,IP42JI1484,diesel
+69,prime play,L-Series,Saturn,5,Mauv,OV52CK5434,petrol
+70,prime sedan,Navigator,Lincoln,5,Turquoise,OK72KM8454,diesel
+71,prime sedan,XJ Series,Jaguar,4,Purple,ND62NJ7484,petrol
+72,prime SUV,Grand Marquis,Mercury,2,Purple,VS82TP2404,cng
+73,prime play,Tiburon,Hyundai,5,Maroon,XM82GV7414,cng
+74,prime play,S80,Volvo,5,Orange,PR92YQ0434,diesel
+75,prime play,M6,BMW,2,Turquoise,QX12BM5474,petrol
+76,prime SUV,Caprice,Chevrolet,5,Indigo,DV52DJ0474,cng
+77,prime sedan,Silverado 2500,Chevrolet,5,Blue,GH22VI6454,cng
+78,prime play,Mustang,Ford,5,Purple,OU72TU0484,cng
+79,prime play,SLX,Acura,2,Violet,RM52SM5404,diesel
+80,prime play,GTI,Volkswagen,5,Puce,LI22UE0434,petrol
+81,prime SUV,X5,BMW,5,Maroon,LQ42ID4464,cng
+82,prime play,Avalon,Toyota,5,Turquoise,LR52GG1454,diesel
+83,prime SUV,Defender,Land Rover,5,Pink,JS62VY0414,cng
+84,prime sedan,Concorde,Chrysler,5,Mauv,YJ32UV8414,cng
+85,prime sedan,Compass,Jeep,4,Green,XR82DU7494,cng
+86,prime play,Countach,Lamborghini,5,Crimson,OO82VJ0464,diesel
+87,prime play,Sable,Mercury,2,Red,PX62VB3424,petrol
+88,prime play,Escalade,Cadillac,2,Aquamarine,XH62LD6424,diesel
+89,prime sedan,Express,Chevrolet,3,Green,HU62LR6444,petrol
+90,prime SUV,Cooper,MINI,5,Turquoise,ZM92MJ9474,cng
+91,prime sedan,Grand Caravan,Dodge,3,Red,OA92RV9464,petrol
+92,prime sedan,Amigo,Isuzu,3,Indigo,RQ32PJ5444,diesel
+93,prime sedan,Lanos,Daewoo,3,Green,BM62FX9444,cng
+94,prime SUV,R8,Audi,2,Crimson,NB92RN4464,petrol
+95,prime play,VehiCROSS,Isuzu,2,Yellow,VY22LM0464,petrol
+96,prime sedan,DBS,Aston Martin,4,Blue,AU12MB9404,petrol
+97,prime play,Element,Honda,3,Mauv,QQ42ZA4474,diesel
+98,prime SUV,Tredia,Mitsubishi,2,Red,UE42ET7404,cng
+99,prime sedan,xA,Scion,3,Maroon,BW52JN8424,cng
+100,prime sedan,370Z,Nissan,4,Mauv,XF62FB8494,cng
+101,prime sedan,500SEL,Mercedes-Benz,4,Pink,ZQ62RI3424,cng
+102,prime SUV,100,Audi,2,Indigo,FK22CH5414,diesel
+103,prime sedan,T100 Xtra,Toyota,5,Crimson,ML02GW7494,diesel
+104,prime play,Suburban 2500,Chevrolet,2,Khaki,YZ72JM2494,petrol
+105,prime sedan,CL-Class,Mercedes-Benz,3,Blue,OJ92BU9434,petrol
+106,prime SUV,Diamante,Mitsubishi,2,Puce,XH32LM5414,petrol
+107,prime sedan,S4,Audi,3,Teal,IT62FW9424,diesel
+108,prime SUV,Express,Chevrolet,5,Puce,IW52SK8434,diesel
+109,prime SUV,Freestar,Ford,3,Purple,QO72AS6424,petrol
+110,prime play,Grand Prix,Pontiac,3,Maroon,XQ92EQ7494,petrol
+111,prime sedan,Escort,Ford,4,Khaki,FP52LZ7414,petrol
+112,prime play,GTI,Volkswagen,3,Aquamarine,ZU62CO8404,cng
+113,prime play,Express 3500,Chevrolet,5,Red,EC72BD8414,cng
+114,prime sedan,XLR-V,Cadillac,5,Crimson,RS42KY1454,cng
+115,prime SUV,Camry Solara,Toyota,2,Violet,VE12MS6404,cng
+116,prime play,Mustang,Ford,3,Violet,SL32IV0424,petrol
+117,prime sedan,Explorer Sport Trac,Ford,5,Teal,IN22AM8404,cng
+118,prime SUV,Veracruz,Hyundai,2,Goldenrod,JL12IT2454,diesel
+119,prime sedan,R-Class,Mercedes-Benz,2,Teal,QL42GU3404,petrol
+120,prime play,Intrigue,Oldsmobile,3,Indigo,NA82GQ7434,petrol
+121,prime SUV,Golf,Volkswagen,4,Blue,IG72LP3474,petrol
+122,prime SUV,Grand Cherokee,Jeep,5,Mauv,CW42IP1414,diesel
+123,prime sedan,Tacoma Xtra,Toyota,2,Crimson,ZJ42SD7414,diesel
+124,prime play,Esprit,Lotus,4,Pink,ZH82XP4474,diesel
+125,prime sedan,Outback,Subaru,2,Green,OS22DX1454,diesel
+126,prime SUV,Safari,GMC,2,Fuscia,CZ22LU2424,petrol
+127,prime sedan,M,Infiniti,2,Turquoise,BG52YZ5484,petrol
+128,prime play,Savana 1500,GMC,3,Maroon,MX52HS6464,petrol
+129,prime SUV,MKZ,Lincoln,3,Violet,KV82VQ4464,diesel
+130,prime SUV,Grand Prix,Pontiac,4,Crimson,LZ42EC9484,diesel
+131,prime sedan,Endeavor,Mitsubishi,3,Red,EF72TH8424,petrol
+132,prime play,Ram 3500,Dodge,3,Yellow,QR02GE7484,petrol
+133,prime sedan,Amanti,Kia,2,Goldenrod,RX02KU3434,diesel
+134,prime sedan,Camry,Toyota,5,Green,AU62SM9454,petrol
+135,prime SUV,Ram Van B350,Dodge,2,Orange,NH82PO0484,petrol
+136,prime play,Elantra,Hyundai,4,Aquamarine,WG72GC6424,petrol
+137,prime play,Touareg,Volkswagen,3,Crimson,CC32IT9424,petrol
+138,prime sedan,Ram 1500 Club,Dodge,4,Red,XF32SK8494,cng
+139,prime SUV,Forenza,Suzuki,4,Khaki,GQ92XK8434,petrol
+140,prime SUV,Corrado,Volkswagen,5,Mauv,PK72RA3414,diesel
+141,prime play,B-Series,Mazda,2,Maroon,HH72IA3414,cng
+142,prime play,LeSabre,Buick,2,Mauv,ED12EJ8434,diesel
+143,prime sedan,Touareg,Volkswagen,3,Turquoise,BX32YP7404,diesel
+144,prime sedan,Sportage,Kia,5,Teal,AM32WQ0434,petrol
+145,prime sedan,Mazda2,Mazda,4,Yellow,KP12ZB8484,diesel
+146,prime play,Continental,Lincoln,4,Maroon,KR22OR2444,petrol
+147,prime sedan,V8,Audi,4,Orange,RT62DA4494,cng
+148,prime play,J,Infiniti,3,Blue,IO62FW9414,petrol
+149,prime play,Fleetwood,Cadillac,4,Indigo,NV42DB5464,diesel
+150,prime sedan,Civic,Honda,3,Khaki,GT52UH1454,cng
+151,prime SUV,Alero,Oldsmobile,2,Red,WE22DC1474,cng
+152,prime play,Yaris,Toyota,2,Teal,KQ52YN6494,diesel
+153,prime sedan,DeVille,Cadillac,5,Green,FH62XZ1464,diesel
+154,prime sedan,Mark LT,Lincoln,5,Turquoise,YJ02FF4494,petrol
+155,prime SUV,Continental,Bentley,3,Aquamarine,AQ52UX7434,petrol
+156,prime play,CTS,Cadillac,5,Goldenrod,VJ22KN1464,cng
+157,prime play,Fortwo,Smart,4,Teal,QY82RP2454,diesel
+158,prime sedan,Lanos,Daewoo,3,Crimson,RL22OZ5454,cng
+159,prime sedan,G-Class,Mercedes-Benz,3,Khaki,PP42AN3414,diesel
+160,prime sedan,Mustang,Ford,3,Goldenrod,SU72EZ8414,petrol
+161,prime play,Tundra,Toyota,3,Khaki,SE32XO2484,cng
+162,prime play,Savana 2500,GMC,4,Puce,QM32QR4494,petrol
+163,prime SUV,Yukon XL,GMC,5,Puce,ZH12CH6404,petrol
+164,prime SUV,Malibu,Chevrolet,3,Turquoise,ZP12EJ0454,diesel
+165,prime play,Veloster,Hyundai,2,Goldenrod,FH92MR7464,cng
+166,prime play,Envoy,GMC,5,Teal,VI12UZ6454,cng
+167,prime play,Focus,Ford,2,Violet,AY02FW9464,petrol
+168,prime play,Galant,Mitsubishi,5,Fuscia,DA32GC9454,diesel
+169,prime sedan,M5,BMW,3,Mauv,OZ12WO7484,cng
+170,prime sedan,4Runner,Toyota,2,Aquamarine,JX12QA9434,cng
+171,prime sedan,Rendezvous,Buick,2,Orange,DQ12CN8434,petrol
+172,prime play,Trooper,Isuzu,3,Fuscia,LX62IK3464,diesel
+173,prime SUV,Seville,Cadillac,2,Violet,JC02LI8404,petrol
+174,prime sedan,Excel,Hyundai,2,Blue,SD52PR5464,diesel
+175,prime SUV,Eurovan,Volkswagen,3,Teal,MX92MR5444,petrol
+176,prime play,XK,Jaguar,2,Goldenrod,TS32LT3414,diesel
+177,prime SUV,TL,Acura,4,Fuscia,CV72UD0434,cng
+178,prime sedan,Sebring,Chrysler,2,Mauv,RC02VO2464,cng
+179,prime SUV,MX-5,Mazda,3,Yellow,EK02IA0484,petrol
+180,prime sedan,B-Series,Mazda,2,Purple,VH72BP9464,petrol
+181,prime SUV,Firebird,Pontiac,5,Yellow,WW82UJ2454,diesel
+182,prime play,Camaro,Chevrolet,2,Teal,PO72BA5454,diesel
+183,prime play,XC70,Volvo,4,Crimson,OL62WT4454,petrol
+184,prime SUV,88,Oldsmobile,5,Puce,XQ02RA3464,cng
+185,prime sedan,E-Class,Mercedes-Benz,2,Teal,KL72ND5454,petrol
+186,prime SUV,del Sol,Honda,3,Red,EN82CS6484,cng
+187,prime SUV,Ciera,Oldsmobile,4,Teal,BK32VU2484,diesel
+188,prime SUV,Esprit,Lotus,5,Mauv,OB52TB8444,diesel
+189,prime sedan,Econoline E350,Ford,5,Pink,RB02MH3434,cng
+190,prime SUV,VUE,Saturn,3,Teal,FQ12AZ9434,petrol
+191,prime sedan,XJ Series,Jaguar,2,Purple,BE22SE4444,petrol
+192,prime SUV,Sierra 3500,GMC,4,Turquoise,UU92WF0494,cng
+193,prime SUV,Mustang,Ford,3,Green,KJ92HU5454,petrol
+194,prime SUV,Expedition EL,Ford,5,Red,LR22YG6444,cng
+195,prime sedan,Monte Carlo,Chevrolet,5,Khaki,FA72VT9454,diesel
+196,prime play,Echo,Toyota,4,Red,KI92PC5454,petrol
+197,prime play,Rocky,Daihatsu,2,Fuscia,GU32JM5474,diesel
+198,prime sedan,300ZX,Nissan,3,Violet,YB02AH0414,cng
+199,prime sedan,Silverado,Chevrolet,3,Indigo,HS62EN2434,petrol
+200,prime play,Swift,Suzuki,3,Red,QE12LD4484,diesel
+201,prime SUV,C70,Volvo,3,Fuscia,SP02RC1444,petrol
+202,prime SUV,B-Series,Mazda,3,Puce,FT12MQ3434,cng
+203,prime SUV,Passat,Volkswagen,2,Turquoise,QA72RX4494,cng
+204,prime SUV,Navajo,Mazda,5,Violet,FA62GI7404,diesel
+205,prime sedan,5 Series,BMW,4,Fuscia,BU62HD3444,cng
+206,prime play,Savana,GMC,3,Khaki,MA22OI2414,cng
+207,prime SUV,Passat,Volkswagen,2,Aquamarine,SM42KO1424,petrol
+208,prime sedan,Thunderbird,Ford,2,Orange,MV52CB7404,diesel
+209,prime play,V50,Volvo,5,Turquoise,LM72DB1464,diesel
+210,prime sedan,Stealth,Dodge,2,Mauv,MD52UV1414,diesel
+211,prime play,Crown Victoria,Ford,2,Orange,ES02TE7404,cng
+212,prime sedan,Park Avenue,Buick,5,Purple,ET12EQ3434,petrol
+213,prime SUV,SLK-Class,Mercedes-Benz,2,Orange,FG22TB0464,cng
+214,prime sedan,4Runner,Toyota,2,Red,CY12HJ0474,diesel
+215,prime SUV,Town & Country,Chrysler,5,Violet,JV22IH1454,petrol
+216,prime SUV,Altima,Nissan,5,Aquamarine,AU22SA8424,diesel
+217,prime play,G8,Pontiac,2,Purple,WO52GJ0434,petrol
+218,prime play,Probe,Ford,5,Teal,XE92FX2474,diesel
+219,prime play,Sierra 3500,GMC,2,Green,KR12OV8404,cng
+220,prime play,Avalon,Toyota,5,Blue,UE42PS3454,cng
+221,prime SUV,Avenger,Dodge,2,Pink,QQ82WK2414,diesel
+222,prime play,Legacy,Subaru,4,Goldenrod,XW72GT9454,petrol
+223,prime play,Crossfire,Chrysler,5,Yellow,SL42OT5424,petrol
+224,prime sedan,Celica,Toyota,5,Yellow,MY72RL8444,cng
+225,prime play,LeSabre,Buick,2,Turquoise,UY62SC7454,petrol
+226,prime sedan,F250,Ford,2,Puce,NB52HQ5424,petrol
+227,prime sedan,Spider,Alfa Romeo,2,Blue,BQ52VU8434,cng
+228,prime play,Grand Voyager,Plymouth,2,Orange,HX92EW0404,cng
+229,prime sedan,TL,Acura,5,Orange,QP82DQ5434,diesel
+230,prime sedan,7 Series,BMW,2,Orange,KJ02SA9484,diesel
+231,prime play,Azera,Hyundai,5,Pink,TK42LY6484,diesel
+232,prime play,Sierra 2500,GMC,2,Pink,KJ52TT9464,petrol
+233,prime sedan,300ZX,Nissan,2,Puce,VG72RO3494,cng
+234,prime SUV,SC,Lexus,5,Goldenrod,SR42KO1414,diesel
+235,prime play,Monte Carlo,Chevrolet,2,Mauv,YQ62LQ4424,petrol
+236,prime play,Silhouette,Oldsmobile,3,Green,AJ52UA5494,petrol
+237,prime SUV,Nubira,Daewoo,2,Violet,TD62OI3494,diesel
+238,prime sedan,CLS-Class,Mercedes-Benz,4,Puce,HP72QA4494,petrol
+239,prime SUV,Challenger,Dodge,2,Crimson,UW32YQ7444,petrol
+240,prime sedan,1500,Chevrolet,3,Green,NR42XU4454,diesel
+241,prime SUV,Jetta,Volkswagen,2,Violet,VI62OF3474,diesel
+242,prime play,Malibu,Chevrolet,5,Purple,HM92JQ1474,petrol
+243,prime SUV,Grand Prix,Pontiac,4,Pink,CI72HC6404,cng
+244,prime sedan,Suburban 2500,Chevrolet,2,Green,MD22OS3484,diesel
+245,prime play,QX56,Infiniti,2,Red,KR52OU8464,diesel
+246,prime sedan,LR2,Land Rover,3,Violet,XO72KF2404,diesel
+247,prime SUV,R-Class,Mercedes-Benz,3,Blue,FX42FZ8444,diesel
+248,prime SUV,Aerostar,Ford,4,Fuscia,WM62XU9424,cng
+249,prime SUV,Type-1h,Aptera,5,Mauv,LR22KM5424,petrol
+250,prime play,Thunderbird,Ford,4,Crimson,UN02ZE6464,petrol
+251,prime play,Mustang,Ford,2,Red,IK12MZ3424,cng
+252,prime sedan,S-Class,Mercedes-Benz,2,Indigo,UH42PK3414,cng
+253,prime sedan,Passport,Honda,4,Purple,NN52UZ0454,petrol
+254,prime sedan,Vandura 3500,GMC,4,Green,SI82JR9464,diesel
+255,prime play,XC90,Volvo,4,Turquoise,KY62JE3494,cng
+256,prime sedan,X3,BMW,3,Khaki,XK72GF0494,diesel
+257,prime SUV,Sebring,Chrysler,3,Blue,AM72UJ1424,petrol
+258,prime sedan,Flex,Ford,5,Fuscia,KO42GT0434,cng
+259,prime SUV,Dakota Club,Dodge,2,Khaki,EJ22EY0414,petrol
+260,prime SUV,Sebring,Chrysler,2,Orange,XB72WI6454,cng
+261,prime play,Baja,Subaru,2,Turquoise,VT12CQ7414,diesel
+262,prime SUV,xB,Scion,4,Yellow,FJ12GA0494,petrol
+263,prime play,9000,Saab,2,Purple,AJ12VC8424,petrol
+264,prime sedan,Legacy,Subaru,2,Pink,LH62XD5484,diesel
+265,prime play,Continental Super,Bentley,4,Goldenrod,OJ42EK6414,diesel
+266,prime play,Maxima,Nissan,2,Khaki,RG32YQ2454,petrol
+267,prime SUV,Cirrus,Chrysler,4,Orange,BO72NX9464,diesel
+268,prime SUV,Corolla,Toyota,2,Aquamarine,VS82YA9444,cng
+269,prime play,Pilot,Honda,4,Teal,PY42RY1474,diesel
+270,prime play,Discovery,Land Rover,5,Goldenrod,DU42OO9484,cng
+271,prime SUV,MPV,Mazda,2,Fuscia,JH42JV1404,diesel
+272,prime SUV,F-Series,Ford,3,Green,GH22ZK4484,petrol
+273,prime sedan,Sonoma,GMC,2,Fuscia,IF42SO7474,cng
+274,prime sedan,Tribeca,Subaru,5,Crimson,SA52ET6474,petrol
+275,prime sedan,Grand Prix,Pontiac,2,Purple,LB72RQ1464,cng
+276,prime sedan,Mustang,Ford,5,Khaki,MD62KV4484,petrol
+277,prime play,QX,Infiniti,4,Maroon,RQ72ZX0434,diesel
+278,prime sedan,5 Series,BMW,5,Crimson,WH72NB2454,petrol
+279,prime SUV,Cayman,Porsche,2,Khaki,GI02LZ3414,diesel
+280,prime play,C-Class,Mercedes-Benz,5,Indigo,IK82TN3464,petrol
+281,prime sedan,Sterling,Land Rover,4,Crimson,HW82FT1414,cng
+282,prime SUV,1 Series,BMW,3,Turquoise,GH72FX3444,cng
+283,prime play,Cultus,Suzuki,2,Aquamarine,YW82TL3444,diesel
+284,prime SUV,Murciélago,Lamborghini,4,Yellow,ZU22QV6444,cng
+285,prime play,Continental,Lincoln,3,Orange,UW12UM2454,diesel
+286,prime play,Sunbird,Pontiac,3,Crimson,FQ32ST8494,petrol
+287,prime SUV,W126,Mercedes-Benz,5,Puce,UV82KK9494,cng
+288,prime sedan,H2 SUT,Hummer,4,Indigo,DU72BS2404,diesel
+289,prime sedan,5000CS,Audi,4,Teal,AX62CX8494,diesel
+290,prime play,Venture,Chevrolet,3,Orange,OS12VY8444,diesel
+291,prime sedan,90,Audi,4,Orange,SH42JO4454,cng
+292,prime play,S-Class,Mercedes-Benz,2,Mauv,PV82TV4474,diesel
+293,prime SUV,B-Series Plus,Mazda,5,Red,BD72BN0464,cng
+294,prime SUV,2500,Chevrolet,2,Orange,GK92SJ8434,diesel
+295,prime SUV,DeVille,Cadillac,5,Aquamarine,XA02OO2474,cng
+296,prime play,XT,Subaru,5,Orange,CA62DI7404,petrol
+297,prime play,Sidekick,Suzuki,3,Green,XB42UM6464,petrol
+298,prime play,Range Rover Sport,Land Rover,3,Maroon,AJ82VY2494,petrol
+299,prime sedan,V8,Audi,3,Crimson,AZ12AB6484,diesel
+300,prime play,GTI,Volkswagen,3,Maroon,NI72KP1424,petrol
+301,prime sedan,Silverado,Chevrolet,2,Blue,FL72ZR9484,petrol
+302,prime sedan,90,Audi,2,Green,OY82KM5454,cng
+303,prime SUV,Savana 2500,GMC,2,Crimson,VV82XQ2424,cng
+304,prime play,Camaro,Chevrolet,5,Crimson,YQ32EC2494,petrol
+305,prime sedan,XL-7,Suzuki,4,Mauv,ON32QE7414,diesel
+306,prime play,Ram 2500,Dodge,5,Orange,GV12QV0424,cng
+307,prime sedan,Diablo,Lamborghini,3,Blue,TL22XB4474,petrol
+308,prime play,Forester,Subaru,2,Yellow,DW32VB0454,diesel
+309,prime sedan,4Runner,Toyota,3,Pink,OO02IY5474,petrol
+310,prime play,Corvette,Chevrolet,3,Aquamarine,KQ42DN8414,diesel
+311,prime SUV,3500,Chevrolet,2,Crimson,QX72SN8494,petrol
+312,prime sedan,Avenger,Dodge,4,Orange,AS12DK8484,petrol
+313,prime SUV,Jetta,Volkswagen,4,Mauv,XG82WY4414,cng
+314,prime play,GLI,Volkswagen,5,Turquoise,OP12PD9494,diesel
+315,prime sedan,Sundance,Plymouth,3,Orange,VU92JV7494,diesel
+316,prime play,Tribute,Mazda,5,Maroon,WC72MM7474,cng
+317,prime play,X3,BMW,5,Blue,MN12ER7434,diesel
+318,prime play,Hearse,Buick,3,Red,VG42UJ9444,diesel
+319,prime sedan,L-Series,Saturn,2,Red,YA32TG3434,petrol
+320,prime sedan,Pathfinder,Nissan,5,Violet,KL02KE4474,petrol
+321,prime SUV,Swift,Suzuki,5,Green,SE82RW4434,petrol
+322,prime play,645,BMW,3,Blue,PC22LG0494,cng
+323,prime sedan,Windstar,Ford,2,Pink,SV32VK0444,petrol
+324,prime SUV,H3,Hummer,5,Green,DT42CK2474,cng
+325,prime sedan,MX-5,Mazda,3,Maroon,UR12BV3404,petrol
+326,prime sedan,Escape,Ford,2,Crimson,ER82JS3464,petrol
+327,prime SUV,Paseo,Toyota,2,Goldenrod,DP42LT7434,cng
+328,prime SUV,F350,Ford,5,Red,ZE92AW4424,diesel
+329,prime play,X5,BMW,4,Violet,YH22SC1414,diesel
+330,prime SUV,Special,Buick,5,Aquamarine,RZ72IG5404,cng
+331,prime play,1000,Pontiac,4,Maroon,TJ62WP1434,petrol
+332,prime SUV,Millenia,Mazda,5,Maroon,IB72XS9404,cng
+333,prime sedan,Riviera,Buick,4,Crimson,RP42RE9434,diesel
+334,prime sedan,2500,Chevrolet,4,Orange,CX92VX7424,diesel
+335,prime play,Tribeca,Subaru,2,Goldenrod,GU02TE2444,diesel
+336,prime SUV,Celica,Toyota,2,Goldenrod,IM02SD7414,petrol
+337,prime sedan,Lumina APV,Chevrolet,5,Teal,XC62DG2444,diesel
+338,prime play,TSX,Acura,3,Green,QC42XY1414,petrol
+339,prime sedan,Impreza WRX,Subaru,2,Maroon,KD42ZN8484,diesel
+340,prime play,Sierra 3500,GMC,2,Goldenrod,VP42TY2424,cng
+341,prime SUV,4Runner,Toyota,5,Purple,IB42RP9444,diesel
+342,prime SUV,X5 M,BMW,2,Pink,RM52CT6464,petrol
+343,prime SUV,XK,Jaguar,2,Goldenrod,ZF42JD3434,cng
+344,prime play,S-Type,Jaguar,5,Goldenrod,DS22QS9484,diesel
+345,prime sedan,Econoline E350,Ford,4,Green,VD42IK1484,diesel
+346,prime sedan,2CV,Citroën,3,Violet,FK02BH4414,cng
+347,prime SUV,Caliber,Dodge,3,Yellow,LU72UU9414,diesel
+348,prime SUV,Alcyone SVX,Subaru,4,Purple,AF32OX8484,petrol
+349,prime play,E-Series,Ford,3,Purple,GJ12KN4414,diesel
+350,prime SUV,Silverado 1500,Chevrolet,4,Red,GF52OT7474,petrol
+351,prime play,57,Maybach,4,Blue,UI02YU7474,diesel
+352,prime SUV,Express 3500,Chevrolet,2,Orange,NN22OE8444,diesel
+353,prime sedan,QX,Infiniti,3,Blue,OK12QS9464,diesel
+354,prime sedan,CT,Lexus,3,Goldenrod,KZ32BK7464,cng
+355,prime sedan,Rodeo,Isuzu,2,Yellow,IO62HU5474,petrol
+356,prime SUV,Suburban 2500,Chevrolet,5,Aquamarine,OG72QL3474,cng
+357,prime sedan,Voyager,Plymouth,2,Red,RH22QA0454,cng
+358,prime play,Camaro,Chevrolet,2,Indigo,QE52UW7424,petrol
+359,prime SUV,Tiguan,Volkswagen,2,Mauv,IO62TR1434,cng
+360,prime play,Trans Sport,Pontiac,4,Crimson,HB52KX6474,diesel
+361,prime SUV,D350,Dodge,3,Red,WX62KK8484,cng
+362,prime play,Ranger,Ford,3,Khaki,UG32CX4424,petrol
+363,prime play,4Runner,Toyota,4,Violet,RA82TX4454,petrol
+364,prime SUV,Topaz,Mercury,5,Indigo,LW52ZD0404,cng
+365,prime play,Accord,Honda,5,Violet,OJ92ER0474,cng
+366,prime SUV,Montero,Mitsubishi,5,Yellow,IL42SM3444,petrol
+367,prime SUV,DB9,Aston Martin,2,Indigo,KM72TS8404,petrol
+368,prime SUV,Rio,Kia,4,Turquoise,WD62JZ8414,diesel
+369,prime play,300M,Chrysler,3,Violet,DC52UV9454,cng
+370,prime sedan,Rally Wagon 3500,GMC,4,Puce,HB62VW2414,cng
+371,prime play,Range Rover Sport,Land Rover,2,Khaki,EJ02LY1424,diesel
+372,prime SUV,Mazda3,Mazda,2,Indigo,PE02OH8444,cng
+373,prime play,Galant,Mitsubishi,3,Orange,FZ42PU0484,petrol
+374,prime SUV,XK,Jaguar,5,Red,HX52VY5444,cng
+375,prime SUV,C70,Volvo,2,Red,QB72DU1404,cng
+376,prime SUV,MX-5,Mazda,2,Green,TZ22BI3424,cng
+377,prime SUV,Tribute,Mazda,2,Violet,OK72WT3424,petrol
+378,prime sedan,Century,Buick,3,Purple,RO22RS7404,diesel
+379,prime SUV,Taurus,Ford,3,Turquoise,IF72MR3464,cng
+380,prime play,Monte Carlo,Chevrolet,2,Violet,RQ92QH3464,cng
+381,prime play,Tribeca,Subaru,2,Indigo,SK62XK2404,diesel
+382,prime SUV,CLK-Class,Mercedes-Benz,4,Maroon,NM22LG2484,petrol
+383,prime sedan,Eldorado,Cadillac,5,Purple,DW32IL8494,diesel
+384,prime sedan,Xterra,Nissan,4,Aquamarine,AG12VB5484,diesel
+385,prime SUV,Accord,Honda,3,Puce,XK72XU0434,cng
+386,prime play,Suburban 2500,GMC,4,Red,YA22FJ1484,cng
+387,prime SUV,Ram Wagon B350,Dodge,3,Violet,TP32XH1484,diesel
+388,prime SUV,Grand Prix,Pontiac,2,Maroon,YN12RC8484,petrol
+389,prime sedan,2500 Club Coupe,GMC,4,Red,MI92HM2454,petrol
+390,prime SUV,1500,GMC,4,Red,QA02TL1484,petrol
+391,prime SUV,QX56,Infiniti,5,Mauv,VC12PW0474,cng
+392,prime play,MDX,Acura,3,Violet,QT82ZG5434,petrol
+393,prime SUV,Spyder,Maserati,5,Khaki,AY52ZS7484,diesel
+394,prime sedan,Firebird,Pontiac,3,Maroon,BF22SZ8404,petrol
+395,prime sedan,Enclave,Buick,2,Puce,JH82YU3474,cng
+396,prime SUV,A3,Audi,5,Mauv,TZ12KD2434,petrol
+397,prime play,Quattro,Audi,2,Yellow,DI32OG3474,cng
+398,prime sedan,9-5,Saab,4,Red,MK92NW0494,diesel
+399,prime play,Caravan,Dodge,4,Fuscia,UD82YS1404,petrol
+400,prime SUV,xB,Scion,3,Maroon,YQ72QO5444,diesel
+401,prime sedan,SL-Class,Mercedes-Benz,5,Pink,KN52CI4424,cng
+402,prime play,3500,Chevrolet,4,Maroon,XB62ZK4454,petrol
+403,prime play,MX-3,Mazda,4,Mauv,CV52JJ4474,cng
+404,prime SUV,Escort,Ford,3,Blue,NU52OP2424,petrol
+405,prime sedan,E250,Ford,5,Fuscia,UC52XZ6414,diesel
+406,prime play,Allroad,Audi,2,Purple,QB42IJ3474,diesel
+407,prime play,200SX,Nissan,4,Indigo,UT62QU1454,cng
+408,prime SUV,Aspen,Dodge,3,Red,FE62JL1474,petrol
+409,prime sedan,929,Mazda,2,Violet,BR72GQ4434,petrol
+410,prime play,Mirage,Mitsubishi,3,Aquamarine,AI32MM4434,petrol
+411,prime sedan,G-Class,Mercedes-Benz,5,Maroon,CD52RB2434,petrol
+412,prime sedan,E250,Ford,5,Crimson,EP52MC1474,cng
+413,prime sedan,Impala,Chevrolet,2,Goldenrod,LC32LD5444,petrol
+414,prime play,Fiesta,Ford,4,Purple,CS02ST1414,diesel
+415,prime play,Type 2,Volkswagen,5,Purple,FM52BE9474,cng
+416,prime SUV,Dakota Club,Dodge,5,Violet,IC72AE1434,petrol
+417,prime SUV,Tacoma Xtra,Toyota,3,Yellow,XP62QE4404,cng
+418,prime SUV,944,Porsche,2,Khaki,KV52YW6444,cng
+419,prime SUV,MX-6,Mazda,2,Aquamarine,MV42TE5404,petrol
+420,prime sedan,3000GT,Mitsubishi,3,Crimson,CP22VO3484,petrol
+421,prime SUV,F350,Ford,4,Goldenrod,JD62KY0404,diesel
+422,prime sedan,Suburban 2500,Chevrolet,5,Fuscia,QU12OA9444,diesel
+423,prime SUV,Coupe,Maserati,5,Aquamarine,QW62GD1494,diesel
+424,prime sedan,E-Class,Mercedes-Benz,5,Goldenrod,MI12XS8464,cng
+425,prime play,Econoline E150,Ford,4,Red,DR82QY4464,petrol
+426,prime play,Taurus,Ford,5,Green,OT02NZ7474,cng
+427,prime sedan,Continental,Bentley,3,Yellow,VX22SV3464,diesel
+428,prime sedan,GT-R,Nissan,4,Aquamarine,JE22XW1484,diesel
+429,prime play,Mazda6,Mazda,4,Violet,HB82AQ7414,diesel
+430,prime sedan,Pajero,Mitsubishi,2,Indigo,PL32HZ4424,diesel
+431,prime SUV,Camry,Toyota,5,Green,UK62WY0464,petrol
+432,prime SUV,Express,Chevrolet,4,Orange,JM72RB4474,petrol
+433,prime SUV,Stratus,Dodge,5,Red,BD52AH8434,cng
+434,prime play,TrailBlazer,Chevrolet,4,Purple,IQ52TQ9494,diesel
+435,prime play,Corvette,Chevrolet,3,Fuscia,AF12RT3484,cng
+436,prime sedan,Integra,Acura,3,Indigo,GS12LC6424,diesel
+437,prime play,Camaro,Chevrolet,5,Khaki,PY32BL0404,diesel
+438,prime sedan,Blazer,Chevrolet,5,Violet,ZB72OF9494,petrol
+439,prime play,Santa Fe,Hyundai,5,Orange,MA02TN8464,diesel
+440,prime SUV,Reventón,Lamborghini,3,Teal,KR32FX1424,diesel
+441,prime SUV,Continental GT,Bentley,2,Fuscia,EM52UB9444,cng
+442,prime sedan,Tiburon,Hyundai,2,Fuscia,UY92XK0414,diesel
+443,prime play,Grand Am,Pontiac,5,Fuscia,QY22OV4424,petrol
+444,prime play,A8,Audi,2,Blue,MU42GK5444,cng
+445,prime play,CTS-V,Cadillac,2,Khaki,YJ32WL8434,petrol
+446,prime SUV,Suburban 1500,Chevrolet,2,Crimson,XU62WI5414,cng
+447,prime sedan,B-Series,Mazda,5,Goldenrod,YG12US3474,cng
+448,prime sedan,Ram 2500,Dodge,3,Fuscia,CT92CL1444,diesel
+449,prime play,Yukon,GMC,5,Blue,SM82SP4414,petrol
+450,prime SUV,Flex,Ford,3,Puce,GT52WK4454,petrol
+451,prime SUV,Legacy,Subaru,4,Turquoise,OL52CE2434,cng
+452,prime play,Imperial,Chrysler,4,Red,KR72LN8404,petrol
+453,prime play,Equator,Suzuki,4,Puce,CA02BH9444,cng
+454,prime sedan,H1,Hummer,5,Crimson,CG42CT1414,petrol
+455,prime sedan,XK Series,Jaguar,5,Yellow,LQ12VA4474,petrol
+456,prime SUV,Range Rover,Land Rover,2,Fuscia,QP62RO1494,cng
+457,prime sedan,VUE,Saturn,3,Fuscia,WV92WX7424,cng
+458,prime SUV,i-370,Isuzu,4,Crimson,AT02RV0424,petrol
+459,prime play,Cordia,Mitsubishi,4,Goldenrod,OK42OI8494,diesel
+460,prime sedan,Century,Buick,5,Maroon,UN82HG5494,diesel
+461,prime play,Tahoe,Chevrolet,5,Fuscia,AI92QU0474,cng
+462,prime SUV,Genesis,Hyundai,2,Turquoise,OE42RM4464,cng
+463,prime SUV,Skylark,Buick,5,Indigo,VH92MJ9484,diesel
+464,prime play,Civic,Honda,4,Mauv,EI12QY2474,petrol
+465,prime sedan,Endeavor,Mitsubishi,2,Puce,LR32BF7414,petrol
+466,prime play,Quest,Nissan,3,Pink,FC12XB4464,cng
+467,prime SUV,C70,Volvo,3,Pink,LA42LZ8434,diesel
+468,prime SUV,5 Series,BMW,2,Puce,CB12DP7464,petrol
+469,prime sedan,ES,Lexus,5,Green,OD32GS0424,cng
+470,prime play,Tercel,Toyota,3,Purple,AH92VB5444,cng
+471,prime play,940,Volvo,2,Goldenrod,BK02CH8474,cng
+472,prime sedan,Quest,Nissan,5,Orange,RG22CI0444,petrol
+473,prime play,88,Oldsmobile,3,Green,TH92FV6404,petrol
+474,prime sedan,Ridgeline,Honda,2,Fuscia,DN92TJ8434,petrol
+475,prime play,Aspire,Ford,4,Blue,GP22OU1474,petrol
+476,prime sedan,Ranger,Ford,4,Blue,RM12TQ7414,cng
+477,prime play,Eclipse,Mitsubishi,5,Red,VW42TJ6404,petrol
+478,prime sedan,XJ,Jaguar,2,Indigo,KJ02GC5474,petrol
+479,prime SUV,Riviera,Buick,5,Crimson,OM92GV6454,cng
+480,prime sedan,Elantra,Hyundai,5,Crimson,KG62AK3434,diesel
+481,prime sedan,Q,Infiniti,4,Yellow,ZI52VP9464,petrol
+482,prime SUV,5 Series,BMW,3,Teal,AU22VZ7424,diesel
+483,prime sedan,Envoy,GMC,4,Crimson,II42PD1494,cng
+484,prime SUV,4Runner,Toyota,5,Mauv,OI12WE6414,cng
+485,prime play,Breeze,Plymouth,3,Turquoise,BE52NL3484,cng
+486,prime SUV,Protege,Mazda,3,Crimson,UP72HU2404,diesel
+487,prime sedan,Routan,Volkswagen,3,Blue,OC02FJ7434,cng
+488,prime SUV,Pajero,Mitsubishi,2,Mauv,OI12YU4414,petrol
+489,prime SUV,Maxima,Nissan,5,Khaki,ZX52DI6494,cng
+490,prime sedan,X5,BMW,3,Fuscia,VB72CF7454,petrol
+491,prime SUV,Express 1500,Chevrolet,4,Khaki,PF82XA6474,petrol
+492,prime play,Z4,BMW,4,Aquamarine,OT82WF6464,cng
+493,prime SUV,RX,Lexus,4,Pink,KM12LK0414,petrol
+494,prime play,3500,Chevrolet,2,Red,ZS02LE3464,diesel
+495,prime SUV,Sixty Special,Cadillac,2,Pink,KL52NU3434,petrol
+496,prime sedan,2500 Club Coupe,GMC,4,Puce,OZ72ON1474,cng
+497,prime SUV,Truck,Mitsubishi,4,Orange,LK92MN2404,cng
+498,prime SUV,F350,Ford,4,Violet,VE82FQ1474,petrol
+499,prime play,CL,Acura,2,Red,WW52JV4414,petrol
+500,prime play,3500,GMC,2,Yellow,OH72PD6484,diesel
+501,prime play,1500,Ram,5,Mauv,UR22VB4474,cng
+502,prime play,Impreza,Subaru,2,Crimson,PR42IZ4424,diesel
+503,prime sedan,i-Series,Isuzu,2,Puce,VW22CQ3404,cng
+504,prime play,JUKE,Nissan,4,Mauv,VA72CU8414,diesel
+505,prime play,928,Porsche,2,Teal,EM32YZ6484,diesel
+506,prime play,Mountaineer,Mercury,4,Orange,UV42CB4454,cng
+507,prime sedan,Continental Mark VII,Lincoln,4,Orange,LR52EO9464,diesel
+508,prime SUV,MR2,Toyota,2,Orange,YZ52YA4494,diesel
+509,prime sedan,Mini Cooper,Austin,3,Yellow,NL42LP1404,petrol
+510,prime SUV,323,Mazda,2,Crimson,NI52GZ1484,petrol
+511,prime play,300M,Chrysler,4,Goldenrod,EH42AR1484,cng
+512,prime sedan,Clubman,MINI,2,Pink,EQ72CE0404,diesel
+513,prime play,B-Series Plus,Mazda,3,Turquoise,LB42FP1494,cng
+514,prime sedan,MX-5,Mazda,5,Turquoise,QS62BA1404,cng
+515,prime sedan,H1,Hummer,5,Fuscia,TS22XR4404,cng
+516,prime sedan,Camaro,Chevrolet,4,Maroon,CA42EW5404,petrol
+517,prime sedan,S10,Chevrolet,5,Puce,KT12DG8404,petrol
+518,prime sedan,Ranger,Ford,5,Maroon,YV12LS0494,petrol
+519,prime sedan,SL-Class,Mercedes-Benz,4,Turquoise,GU12GM0484,petrol
+520,prime sedan,Legacy,Subaru,3,Pink,RY82XJ5464,cng
+521,prime SUV,Suburban 1500,Chevrolet,3,Mauv,AD02SR9434,cng
+522,prime SUV,Interceptor,Jensen,2,Maroon,QV12TT3484,petrol
+523,prime sedan,Sorento,Kia,5,Turquoise,SY72NC2454,petrol
+524,prime SUV,NV2500,Nissan,4,Purple,HZ32TU3404,diesel
+525,prime play,Estate,Buick,4,Violet,LP62CB0474,petrol
+526,prime sedan,Nitro,Dodge,2,Green,CP52JZ6414,diesel
+527,prime play,Savana 2500,GMC,3,Yellow,IK92NQ8424,cng
+528,prime play,Verona,Suzuki,2,Orange,WR92AP6434,petrol
+529,prime SUV,Karif,Maserati,3,Turquoise,UM82IT5454,cng
+530,prime sedan,W201,Mercedes-Benz,5,Turquoise,PY72PW4414,diesel
+531,prime SUV,Econoline E150,Ford,3,Maroon,NK82NG9464,cng
+532,prime SUV,Rockette,Fairthorpe,2,Blue,GD92EQ7424,cng
+533,prime play,Ram Wagon B350,Dodge,4,Green,IY52AK2494,petrol
+534,prime play,Xterra,Nissan,3,Indigo,TL72DP2484,cng
+535,prime SUV,Landaulet,Maybach,2,Fuscia,TH62HB3484,diesel
+536,prime play,Jimmy,GMC,3,Maroon,JT32NF4494,petrol
+537,prime sedan,F450,Ford,3,Khaki,UD42WU2454,petrol
+538,prime sedan,Arnage,Bentley,4,Goldenrod,GW62DW9474,cng
+539,prime play,Tercel,Toyota,2,Goldenrod,TM52PA0404,petrol
+540,prime sedan,GTO,Mitsubishi,2,Maroon,MI22WY6444,diesel
+541,prime sedan,Durango,Dodge,4,Puce,WQ02LT7424,cng
+542,prime play,SL-Class,Mercedes-Benz,3,Turquoise,XN42WP7404,cng
+543,prime sedan,Thunderbird,Ford,2,Teal,HN72DC7404,petrol
+544,prime play,LeSabre,Buick,2,Turquoise,KR32II2444,diesel
+545,prime sedan,SVX,Subaru,2,Indigo,RP02CM8404,diesel
+546,prime sedan,Daewoo Kalos,Pontiac,3,Pink,IF32WG2464,petrol
+547,prime sedan,F150,Ford,5,Goldenrod,TL72CC1424,cng
+548,prime SUV,A4,Audi,4,Mauv,KM72BJ7484,petrol
+549,prime play,ES,Lexus,3,Crimson,BG62MP7414,cng
+550,prime SUV,SLS AMG,Mercedes-Benz,5,Indigo,GI22NY6414,petrol
+551,prime sedan,Ram 1500 Club,Dodge,3,Khaki,OJ22AK6434,petrol
+552,prime SUV,Compass,Jeep,3,Maroon,WW92YZ7404,cng
+553,prime SUV,Sable,Mercury,4,Turquoise,LB92UM2424,diesel
+554,prime SUV,Malibu,Chevrolet,5,Goldenrod,AP42SO8404,petrol
+555,prime sedan,Camaro,Chevrolet,4,Khaki,OI32XV7454,petrol
+556,prime play,Express 3500,Chevrolet,4,Violet,PW22WE0474,cng
+557,prime sedan,Murciélago,Lamborghini,3,Khaki,MC52YA5444,cng
+558,prime play,300D,Mercedes-Benz,2,Crimson,WT92JL1404,petrol
+559,prime SUV,MKX,Lincoln,4,Turquoise,YI62RP4434,cng
+560,prime play,Swift,Suzuki,5,Blue,LM92NP3464,diesel
+561,prime sedan,Sonoma,GMC,5,Purple,ZR32SN1484,cng
+562,prime SUV,Ram 3500,Dodge,5,Orange,ZW92KB9404,diesel
+563,prime sedan,EX,Infiniti,4,Crimson,XR02VX8474,petrol
+564,prime play,NV2500,Nissan,2,Indigo,NG22SZ2424,petrol
+565,prime sedan,Galant,Mitsubishi,2,Purple,FL52JC0494,petrol
+566,prime SUV,Grand Marquis,Mercury,2,Goldenrod,RE02MC4464,diesel
+567,prime sedan,Equator,Suzuki,2,Aquamarine,NH32XB5484,cng
+568,prime sedan,Avalanche,Chevrolet,2,Puce,QI22HJ2464,petrol
+569,prime play,Navigator L,Lincoln,5,Khaki,GW92TZ0404,petrol
+570,prime play,GX,Lexus,5,Crimson,SU52YS9484,petrol
+571,prime sedan,Grand Caravan,Dodge,3,Green,IS62BX6424,diesel
+572,prime SUV,Caravan,Dodge,4,Purple,YF52CI8454,diesel
+573,prime sedan,Durango,Dodge,3,Crimson,LG62KA9404,diesel
+574,prime SUV,Silverado 2500,Chevrolet,3,Red,KA52KO1494,petrol
+575,prime play,J,Infiniti,3,Khaki,CL22KQ5484,cng
+576,prime play,GTI,Volkswagen,2,Turquoise,AO42RO3414,petrol
+577,prime sedan,S40,Volvo,4,Mauv,MA82UN4414,cng
+578,prime SUV,Cherokee,Jeep,3,Maroon,VL32ZW3454,diesel
+579,prime SUV,Taurus,Ford,5,Violet,GA32GR5494,cng
+580,prime SUV,8 Series,BMW,4,Crimson,PM42BF0494,diesel
+581,prime sedan,Relay,Saturn,2,Purple,HL42CC8494,cng
+582,prime sedan,940,Volvo,5,Aquamarine,JW02ED6424,petrol
+583,prime play,Horizon,Plymouth,4,Mauv,RS82PN3444,cng
+584,prime SUV,Ram Van 1500,Dodge,3,Crimson,HV62KK2474,petrol
+585,prime play,S-Series,Saturn,4,Violet,GX42VL6414,diesel
+586,prime SUV,W201,Mercedes-Benz,5,Maroon,II02XS9474,diesel
+587,prime play,Town & Country,Chrysler,5,Purple,YT92EL7484,petrol
+588,prime SUV,Town Car,Lincoln,3,Indigo,ZE82BP0424,diesel
+589,prime play,MX-6,Mazda,3,Turquoise,QU32GA8434,diesel
+590,prime SUV,Wrangler,Jeep,3,Goldenrod,OM22DY2454,cng
+591,prime sedan,Pajero,Mitsubishi,5,Purple,TW52SA6404,petrol
+592,prime SUV,G-Class,Mercedes-Benz,5,Teal,GP22SH0404,cng
+593,prime play,Yukon XL 1500,GMC,5,Khaki,YR32DQ4484,cng
+594,prime SUV,E350,Ford,2,Teal,CD92TM5484,petrol
+595,prime play,626,Mazda,4,Teal,NH82GC2404,petrol
+596,prime play,Supra,Toyota,5,Orange,EF02PE9454,diesel
+597,prime sedan,Express 2500,Chevrolet,3,Pink,YF82SF2424,diesel
+598,prime SUV,QX56,Infiniti,4,Maroon,NT32VV9444,cng
+599,prime SUV,Viper,Dodge,5,Puce,JH52UC3464,petrol
+600,prime SUV,F430,Ferrari,5,Blue,LP12YJ2414,cng
+601,prime play,Caravan,Dodge,2,Purple,SB12QT1424,cng
+602,prime sedan,Q,Infiniti,3,Turquoise,FT22RF2444,cng
+603,prime sedan,M,Infiniti,2,Puce,BQ32PF6404,cng
+604,prime sedan,Viper,Dodge,3,Violet,OR22LH3404,diesel
+605,prime play,Summit,Eagle,2,Teal,YS02MB4434,petrol
+606,prime SUV,SLK-Class,Mercedes-Benz,3,Maroon,ME82ER1404,diesel
+607,prime play,Suburban 2500,Chevrolet,4,Turquoise,BJ02RT0444,petrol
+608,prime sedan,Xtra,Toyota,3,Red,QZ22XY2434,diesel
+609,prime sedan,RX-7,Mazda,3,Yellow,SC92ZJ6494,petrol
+610,prime SUV,Corolla,Toyota,2,Mauv,SL02YP5434,cng
+611,prime SUV,Galant,Mitsubishi,3,Maroon,KB12XZ5444,cng
+612,prime SUV,Concorde,Chrysler,3,Pink,FK32YJ2474,cng
+613,prime play,90,Audi,4,Green,DW82WX5414,diesel
+614,prime play,Z3,BMW,4,Blue,KH92XV8464,cng
+615,prime sedan,Eldorado,Cadillac,2,Puce,SS82TW9424,diesel
+616,prime sedan,Tucson,Hyundai,4,Aquamarine,XI52XX5474,diesel
+617,prime play,850,Volvo,4,Puce,IE02AX3434,diesel
+618,prime sedan,G-Series G10,Chevrolet,3,Turquoise,AD92LE2434,petrol
+619,prime play,M5,BMW,4,Red,DI32KL3434,cng
+620,prime SUV,LS,Lexus,2,Blue,IC12KH4484,cng
+621,prime play,Murciélago,Lamborghini,3,Orange,GN82LS9424,diesel
+622,prime sedan,Grand Prix,Pontiac,3,Indigo,FL72ZK5454,cng
+623,prime SUV,914,Porsche,3,Violet,ZA92YT9434,petrol
+624,prime SUV,E150,Ford,2,Turquoise,NT12QT6474,diesel
+625,prime sedan,Grand Voyager,Plymouth,3,Indigo,NK02EL9444,petrol
+626,prime sedan,Ranger,Ford,4,Puce,AP82RR6424,petrol
+627,prime play,SX4,Suzuki,3,Indigo,CO72YL3404,petrol
+628,prime play,Town & Country,Chrysler,4,Mauv,QB42KN2444,cng
+629,prime play,Express 1500,Chevrolet,4,Goldenrod,PV92JU3474,petrol
+630,prime sedan,Caliber,Dodge,5,Orange,IM02JW4454,diesel
+631,prime SUV,3500,Chevrolet,5,Turquoise,LN52NU0434,petrol
+632,prime play,Concorde,Chrysler,3,Pink,ZW02GQ1414,diesel
+633,prime SUV,Savana 1500,GMC,3,Indigo,SZ42KK4474,diesel
+634,prime SUV,Aura,Saturn,2,Maroon,UV22SN6474,cng
+635,prime SUV,MDX,Acura,2,Blue,ZR62PV1454,diesel
+636,prime sedan,Sable,Mercury,3,Yellow,IR22UE9494,petrol
+637,prime SUV,Cayenne,Porsche,5,Maroon,OL72VK4464,diesel
+638,prime SUV,CLK-Class,Mercedes-Benz,3,Fuscia,GB72WP9444,cng
+639,prime play,Estate,Buick,2,Khaki,ZL42VG6424,cng
+640,prime play,Civic Si,Honda,4,Goldenrod,FL92AB0404,petrol
+641,prime sedan,rio,Volkswagen,2,Turquoise,HM52RF4424,diesel
+642,prime SUV,Dakota,Dodge,2,Crimson,HA22GP4434,petrol
+643,prime play,Blazer,Chevrolet,5,Pink,ZT62DN6494,cng
+644,prime SUV,Bonneville,Pontiac,5,Goldenrod,GM22MC8484,petrol
+645,prime sedan,GX,Lexus,4,Blue,QH12PT7404,diesel
+646,prime play,J,Infiniti,2,Teal,JD22ZX7454,diesel
+647,prime SUV,Suburban 1500,Chevrolet,2,Khaki,YJ12GR9444,cng
+648,prime play,Caliber,Dodge,3,Fuscia,NF72LN2454,cng
+649,prime sedan,Blazer,Chevrolet,2,Aquamarine,RY22LI1474,diesel
+650,prime SUV,Corvette,Chevrolet,2,Pink,HM72QR4434,diesel
+651,prime SUV,Corolla,Toyota,3,Goldenrod,AI92JU9474,cng
+652,prime SUV,Equator,Suzuki,3,Pink,PT32TK3484,petrol
+653,prime SUV,Safari,GMC,5,Indigo,IL42VH6434,cng
+654,prime play,DB9,Aston Martin,3,Maroon,LP72RB4464,diesel
+655,prime sedan,Transit Connect,Ford,4,Aquamarine,AE42EH0434,diesel
+656,prime play,Spider,Alfa Romeo,4,Teal,UM02IN9434,cng
+657,prime SUV,Century,Buick,3,Orange,PK02TE1444,diesel
+658,prime sedan,F450,Ford,5,Puce,QX62KT1494,diesel
+659,prime sedan,Sentra,Nissan,4,Indigo,AL82NS3464,cng
+660,prime play,Thunderbird,Ford,3,Pink,EE92MH0454,cng
+661,prime SUV,Pajero,Mitsubishi,3,Pink,FI12DI8484,cng
+662,prime play,M,BMW,2,Khaki,OP52GJ5404,petrol
+663,prime play,Sportvan G20,Chevrolet,2,Purple,ZE52PR7404,diesel
+664,prime play,F-Series,Ford,3,Mauv,CR82JZ4434,cng
+665,prime SUV,Santa Fe,Hyundai,2,Blue,JL02NV7474,cng
+666,prime play,Wrangler,Jeep,2,Crimson,UL72BE2484,petrol
+667,prime SUV,Suburban 2500,Chevrolet,5,Teal,CI92NX2444,cng
+668,prime SUV,Entourage,Hyundai,5,Orange,HZ42BP3494,diesel
+669,prime SUV,C70,Volvo,5,Teal,YL22JB4484,petrol
+670,prime SUV,Vanquish S,Aston Martin,3,Aquamarine,KY42XN2414,cng
+671,prime SUV,Type 2,Volkswagen,3,Red,LL22CG9454,diesel
+672,prime sedan,Beretta,Chevrolet,2,Red,XH12ZJ9494,diesel
+673,prime sedan,Corsica,Chevrolet,2,Purple,OZ22AC4434,petrol
+674,prime sedan,Durango,Dodge,2,Green,MZ92DQ8454,diesel
+675,prime play,Grand Prix,Pontiac,3,Green,XE72PH8414,diesel
+676,prime SUV,Escort,Ford,5,Crimson,FJ82VJ8404,petrol
+677,prime SUV,Savana 1500,GMC,5,Pink,WG12BC3434,diesel
+678,prime sedan,Swift,Suzuki,2,Violet,UK32QB7494,cng
+679,prime SUV,B-Series Plus,Mazda,2,Yellow,PO02QF3484,diesel
+680,prime SUV,Pathfinder,Nissan,5,Crimson,EG42VI5434,diesel
+681,prime play,Grand Cherokee,Jeep,5,Pink,PL12KW7494,cng
+682,prime play,Charger,Dodge,2,Yellow,ED12TR7484,petrol
+683,prime SUV,Town & Country,Chrysler,2,Orange,MD82FL6464,cng
+684,prime sedan,Gallardo,Lamborghini,5,Violet,SK52UI7424,petrol
+685,prime sedan,X-Type,Jaguar,2,Puce,AT92QU1484,cng
+686,prime sedan,2500,Chevrolet,2,Mauv,YU62IW9404,petrol
+687,prime play,MR2,Toyota,4,Goldenrod,VU92ZB4494,diesel
+688,prime sedan,Voyager,Chrysler,3,Purple,NJ32LR2454,cng
+689,prime play,Fifth Ave,Chrysler,2,Red,NH92UG6404,cng
+690,prime sedan,Range Rover Sport,Land Rover,4,Blue,OU32HT7474,diesel
+691,prime sedan,Explorer Sport,Ford,4,Aquamarine,NP42HF3404,cng
+692,prime SUV,LX,Lexus,4,Red,WG62OF5434,cng
+693,prime play,Thunderbird,Ford,3,Mauv,WW22PT9444,petrol
+694,prime SUV,E250,Ford,2,Mauv,YW02ZH0484,diesel
+695,prime SUV,CR-V,Honda,4,Maroon,QL42SD4474,diesel
+696,prime sedan,Miata MX-5,Mazda,4,Indigo,JV82DL6494,petrol
+697,prime sedan,Ram 1500 Club,Dodge,4,Mauv,RI12ZO1484,petrol
+698,prime play,Sienna,Toyota,2,Green,AX12EA0494,petrol
+699,prime SUV,Jetta,Volkswagen,4,Khaki,LW32HU1454,cng
+700,prime play,Sorento,Kia,3,Indigo,QW22XF5464,diesel
+701,prime play,600SL,Mercedes-Benz,5,Puce,OR62XA1404,diesel
+702,prime SUV,IS,Lexus,5,Aquamarine,WH32IW5484,petrol
+703,prime sedan,3500,Chevrolet,3,Teal,IU12AW0444,petrol
+704,prime sedan,S10 Blazer,Chevrolet,4,Violet,AR92MA3434,diesel
+705,prime play,XC70,Volvo,4,Aquamarine,ZC12TK2484,diesel
+706,prime play,Mazda3,Mazda,4,Aquamarine,FC72RI7444,cng
+707,prime play,VehiCROSS,Isuzu,2,Red,RD32TX0454,cng
+708,prime play,CL65 AMG,Mercedes-Benz,3,Orange,AC62HB8424,diesel
+709,prime SUV,Jetta,Volkswagen,3,Yellow,HI12PQ9444,diesel
+710,prime play,Jimmy,GMC,4,Goldenrod,NS32FS8494,petrol
+711,prime play,Prowler,Plymouth,5,Puce,MA12PZ1444,diesel
+712,prime play,9-5,Saab,2,Aquamarine,YH22QK0474,cng
+713,prime sedan,Laser,Plymouth,3,Orange,PT32FZ6424,cng
+714,prime sedan,Caprice,Chevrolet,5,Orange,RF72GV5494,cng
+715,prime play,Dakota Club,Dodge,2,Yellow,TX42FW9414,diesel
+716,prime sedan,Cooper,MINI,4,Violet,XQ82OP9454,petrol
+717,prime sedan,Escort,Ford,3,Crimson,ZC32VX6404,petrol
+718,prime play,A8,Audi,2,Crimson,BR02NX8454,cng
+719,prime play,Tempest,Pontiac,3,Blue,UH22YI7454,cng
+720,prime SUV,Econoline E350,Ford,3,Purple,TJ82YJ7494,diesel
+721,prime sedan,Altima,Nissan,3,Fuscia,DO52SG4454,cng
+722,prime sedan,XG350,Hyundai,3,Indigo,WZ02NT8414,petrol
+723,prime sedan,Montero Sport,Mitsubishi,3,Turquoise,YZ92YP6454,diesel
+724,prime play,745,BMW,2,Violet,LY02RL5464,diesel
+725,prime SUV,Daewoo Kalos,Pontiac,3,Goldenrod,ZE72TO5494,cng
+726,prime SUV,Clubman,MINI,4,Crimson,AB92MK0484,cng
+727,prime SUV,Econoline E350,Ford,3,Turquoise,FS52VI8444,diesel
+728,prime SUV,X5,BMW,4,Indigo,QO42GG8464,cng
+729,prime play,F350,Ford,5,Green,CQ22TR3474,cng
+730,prime sedan,Panamera,Porsche,4,Aquamarine,ND72XW7434,diesel
+731,prime SUV,Coachbuilder,Buick,3,Teal,OX92RG1474,diesel
+732,prime SUV,Silverado 2500,Chevrolet,3,Maroon,DT02UL3404,petrol
+733,prime SUV,F150,Ford,5,Violet,GJ92ZC2414,petrol
+734,prime play,Villager,Mercury,5,Pink,PN52LQ3424,petrol
+735,prime sedan,Rondo,Kia,2,Goldenrod,YE42WZ9424,diesel
+736,prime sedan,Passat,Volkswagen,2,Crimson,RS92ZW2414,petrol
+737,prime SUV,W126,Mercedes-Benz,5,Maroon,BH42ZA1494,petrol
+738,prime SUV,Crown Victoria,Ford,2,Maroon,ES02XG5494,diesel
+739,prime sedan,B-Series,Mazda,3,Purple,NV22NI3484,petrol
+740,prime play,Q,Infiniti,4,Violet,DD82PI6464,diesel
+741,prime SUV,Ridgeline,Honda,2,Yellow,KK42KU0474,cng
+742,prime play,Q,Infiniti,5,Green,US62AU6404,petrol
+743,prime SUV,Samurai,Suzuki,5,Mauv,ZK72BR5404,petrol
+744,prime SUV,A3,Audi,4,Khaki,WS52WX8434,petrol
+745,prime SUV,D350,Dodge,4,Turquoise,FA32ZW6434,petrol
+746,prime SUV,Insight,Honda,4,Puce,OZ42TU5454,diesel
+747,prime play,4Runner,Toyota,5,Blue,WC52RC6404,cng
+748,prime play,EXP,Ford,5,Indigo,OF72YH5424,cng
+749,prime sedan,Mystique,Mercury,4,Fuscia,US12NE9484,diesel
+750,prime sedan,Cutlass Supreme,Oldsmobile,2,Red,HD02II3434,cng
+751,prime SUV,2500 Club Coupe,GMC,5,Purple,GU22WM8434,diesel
+752,prime sedan,del Sol,Honda,5,Aquamarine,SH92BI3464,cng
+753,prime play,Cavalier,Chevrolet,4,Goldenrod,QM32DB1414,petrol
+754,prime sedan,A6,Audi,4,Maroon,ZQ02VN1494,diesel
+755,prime sedan,TrailBlazer,Chevrolet,2,Crimson,LV82OY6454,diesel
+756,prime sedan,Explorer,Ford,4,Aquamarine,ZJ72JN6444,cng
+757,prime sedan,90,Audi,4,Crimson,FF72YX9434,diesel
+758,prime SUV,CR-X,Honda,3,Orange,KJ12NI1474,petrol
+759,prime sedan,Explorer,Ford,5,Khaki,SO82ZD9404,diesel
+760,prime sedan,Echo,Toyota,5,Red,IT02FY0494,cng
+761,prime sedan,Grand Vitara,Suzuki,4,Maroon,PC02DA4404,cng
+762,prime sedan,Continental Flying Spur,Bentley,3,Goldenrod,RC72MW8494,cng
+763,prime SUV,Expedition EL,Ford,2,Red,TP72WA2404,petrol
+764,prime SUV,Breeze,Plymouth,4,Yellow,KC52SQ3404,petrol
+765,prime SUV,S80,Volvo,2,Red,QN82TW9434,cng
+766,prime SUV,Mirage,Mitsubishi,4,Fuscia,YS42XH7474,cng
+767,prime sedan,Th!nk,Ford,4,Orange,MI82GM7474,petrol
+768,prime sedan,Fusion,Ford,4,Fuscia,CM12ZK0494,cng
+769,prime SUV,M3,BMW,5,Yellow,PV52FU9424,cng
+770,prime play,Neon,Plymouth,4,Violet,VR82HY4454,petrol
+771,prime SUV,Venza,Toyota,3,Teal,BM02ZA9484,cng
+772,prime SUV,D350 Club,Dodge,2,Red,GA52UH8484,cng
+773,prime sedan,LS,Lexus,3,Red,CX72LA9464,petrol
+774,prime play,Veracruz,Hyundai,3,Red,IO92BC1404,cng
+775,prime play,C/V,Ram,5,Green,LU62BB7494,diesel
+776,prime SUV,Firebird,Pontiac,5,Orange,EH92VL3454,diesel
+777,prime play,MKZ,Lincoln,4,Mauv,AO72MG1434,petrol
+778,prime play,Ram 1500,Dodge,4,Puce,PQ92AX2454,cng
+779,prime play,Hombre,Isuzu,2,Aquamarine,JN42TX0454,petrol
+780,prime play,X5,BMW,4,Yellow,JN32IQ9424,petrol
+781,prime SUV,MX-5,Mazda,5,Teal,SE52AV8494,diesel
+782,prime sedan,RAV4,Toyota,5,Turquoise,DH12WL6434,petrol
+783,prime sedan,E350,Ford,4,Maroon,BE32SX4424,cng
+784,prime sedan,Riviera,Buick,2,Mauv,BY02MK8404,petrol
+785,prime play,Aero 8,Morgan,4,Purple,CZ32OC0404,cng
+786,prime play,Sunbird,Pontiac,3,Puce,PL52IV0434,petrol
+787,prime SUV,I,Infiniti,4,Puce,VP82IA8484,diesel
+788,prime sedan,Dakota Club,Dodge,3,Violet,UW32MO1414,petrol
+789,prime sedan,MX-5,Mazda,4,Blue,BG72EH5404,petrol
+790,prime SUV,Defender Ice Edition,Land Rover,3,Red,TN92HJ3494,diesel
+791,prime play,Camry,Toyota,5,Fuscia,TU32YQ0474,cng
+792,prime sedan,Golf,Volkswagen,4,Violet,YF92WP0494,petrol
+793,prime play,Mustang,Ford,2,Indigo,ZG32IV9414,cng
+794,prime play,Esteem,Suzuki,4,Mauv,IY82DU1484,diesel
+795,prime sedan,Continental,Lincoln,2,Orange,OZ62AT6484,petrol
+796,prime sedan,88,Oldsmobile,5,Khaki,RW32CV2464,diesel
+797,prime play,Sonata,Hyundai,3,Fuscia,TD32RP6444,petrol
+798,prime sedan,A3,Audi,2,Violet,PF92OK8454,petrol
+799,prime play,GTO,Mitsubishi,3,Maroon,PX32WZ3474,diesel
+800,prime sedan,Tiburon,Hyundai,5,Goldenrod,CH72FB1444,petrol
+801,prime play,G-Series G30,Chevrolet,4,Fuscia,PP52KU7484,diesel
+802,prime play,Trans Sport,Pontiac,3,Khaki,SK52NG3444,petrol
+803,prime play,Mazda3,Mazda,4,Fuscia,HV92YL8434,cng
+804,prime sedan,Yaris,Toyota,4,Puce,YK12LR6454,diesel
+805,prime sedan,Rio,Kia,5,Green,IZ02BT4414,cng
+806,prime play,525,BMW,2,Turquoise,MB22GO5464,diesel
+807,prime sedan,Silverado 1500,Chevrolet,4,Yellow,GJ92ZC8494,diesel
+808,prime SUV,Yukon,GMC,4,Khaki,ZM12XE0434,petrol
+809,prime sedan,Venture,Chevrolet,5,Turquoise,YY62LL1424,petrol
+810,prime play,968,Porsche,3,Teal,QG32CN7464,petrol
+811,prime sedan,Tacoma,Toyota,3,Blue,MF32KJ7474,diesel
+812,prime sedan,EXP,Ford,5,Fuscia,HR32GK1444,petrol
+813,prime SUV,Celica,Toyota,3,Pink,ID12KD8434,petrol
+814,prime sedan,rio,Volkswagen,2,Pink,KZ22HO1434,diesel
+815,prime sedan,Ram Van B250,Dodge,2,Khaki,XR72TS4484,cng
+816,prime sedan,Esteem,Suzuki,2,Violet,DY82VG4494,cng
+817,prime play,Contour,Ford,4,Goldenrod,RI52HU8484,cng
+818,prime SUV,Odyssey,Honda,4,Crimson,II02QJ6444,petrol
+819,prime play,Park Avenue,Buick,4,Violet,AZ52UV5494,cng
+820,prime sedan,Passport,Honda,2,Maroon,DM02PG7454,diesel
+821,prime SUV,RVR,Mitsubishi,4,Pink,BY42MC4434,petrol
+822,prime SUV,A4,Audi,3,Pink,NO52TR2494,cng
+823,prime sedan,Versa,Nissan,2,Khaki,BM02CN2414,diesel
+824,prime sedan,F350,Ford,4,Green,BL72RE5444,cng
+825,prime SUV,Azera,Hyundai,3,Pink,AD02PV6454,petrol
+826,prime SUV,Ram 2500,Dodge,3,Yellow,CZ52SP9434,petrol
+827,prime play,Yukon,GMC,5,Purple,SB42VN8414,cng
+828,prime SUV,Skylark,Buick,4,Aquamarine,YC52ET4494,diesel
+829,prime play,G37,Infiniti,3,Khaki,WT82GE1404,petrol
+830,prime SUV,300,Chrysler,2,Yellow,DN72DH6464,cng
+831,prime play,Sentra,Nissan,2,Aquamarine,FX62XK9414,diesel
+832,prime play,Cultus,Suzuki,3,Blue,ZK72PX5474,petrol
+833,prime SUV,Festiva,Ford,4,Pink,RB72EW4474,petrol
+834,prime play,Avalon,Toyota,4,Teal,WI72QX2464,cng
+835,prime sedan,Silverado 2500,Chevrolet,4,Violet,IP52WU1474,cng
+836,prime SUV,Ranger,Ford,5,Khaki,XU42RU2484,diesel
+837,prime sedan,7 Series,BMW,2,Maroon,ID42EX6474,cng
+838,prime SUV,Sentra,Nissan,4,Aquamarine,ZR82IM6424,cng
+839,prime sedan,645,BMW,2,Teal,YV52JS6464,petrol
+840,prime sedan,Altima,Nissan,5,Orange,QF52WG1484,petrol
+841,prime sedan,Rio,Kia,3,Blue,WL92CC2404,diesel
+842,prime play,S60,Volvo,2,Blue,VC62AD5464,cng
+843,prime play,Sundance,Plymouth,4,Orange,FX82SG3404,cng
+844,prime SUV,Forenza,Suzuki,5,Indigo,WN62ME5474,cng
+845,prime SUV,Crown Victoria,Ford,4,Crimson,YM52YZ3424,petrol
+846,prime sedan,LX,Lexus,2,Teal,HG22TY5444,diesel
+847,prime sedan,Sixty Special,Cadillac,3,Orange,QB42TZ3454,petrol
+848,prime SUV,Spectra,Kia,4,Red,MM72TA6434,diesel
+849,prime play,Vandura 2500,GMC,2,Turquoise,ZO42MJ6474,cng
+850,prime SUV,Continental,Bentley,5,Indigo,JA82UW2464,diesel
+851,prime play,RX-7,Mazda,3,Green,VM72WS6404,diesel
+852,prime play,Spectra,Kia,4,Mauv,UL02XY0484,cng
+853,prime sedan,SRX,Cadillac,4,Violet,JJ22RB6424,petrol
+854,prime SUV,Vega,Chevrolet,4,Aquamarine,PW42TL5484,cng
+855,prime play,Savana 1500,GMC,4,Crimson,IL22XD1454,cng
+856,prime play,Endeavor,Mitsubishi,4,Teal,ZL22NS3474,petrol
+857,prime sedan,Eclipse,Mitsubishi,3,Aquamarine,RJ72WM1454,petrol
+858,prime play,C-Class,Mercedes-Benz,5,Goldenrod,WZ12QN9404,cng
+859,prime play,CL-Class,Mercedes-Benz,2,Goldenrod,VO02SG3434,diesel
+860,prime SUV,Familia,Mazda,4,Puce,MU52UF0464,petrol
+861,prime play,Cooper Countryman,MINI,4,Indigo,NT92WG8484,diesel
+862,prime sedan,Tracer,Mercury,2,Red,PU82TZ2444,cng
+863,prime sedan,R32,Volkswagen,3,Maroon,OS02TV0414,diesel
+864,prime play,Silhouette,Oldsmobile,5,Maroon,YL52FJ3474,cng
+865,prime SUV,SC,Lexus,2,Blue,AK62YP5414,diesel
+866,prime play,GL-Class,Mercedes-Benz,3,Goldenrod,NL32UO2404,diesel
+867,prime play,750,BMW,4,Red,HD72RN5424,petrol
+868,prime sedan,B2600,Mazda,4,Green,LT12YK4454,cng
+869,prime play,Gallardo,Lamborghini,2,Goldenrod,FM52LH0484,petrol
+870,prime play,Accord,Honda,2,Crimson,WO92VV3444,cng
+871,prime sedan,Santa Fe,Hyundai,4,Goldenrod,MH42MK5404,diesel
+872,prime play,MR2,Toyota,3,Goldenrod,SE42EH6474,cng
+873,prime SUV,Sunbird,Pontiac,2,Goldenrod,DZ32JE5454,cng
+874,prime SUV,Sprinter 3500,Mercedes-Benz,2,Turquoise,GU92LW1444,petrol
+875,prime SUV,Club Wagon,Ford,2,Goldenrod,QQ02SL2404,cng
+876,prime sedan,LeSabre,Buick,2,Khaki,LF22IE1404,cng
+877,prime sedan,Freelander,Land Rover,4,Mauv,SS12MX8464,diesel
+878,prime play,Continental,Bentley,3,Pink,PH32SA2484,petrol
+879,prime play,SLK-Class,Mercedes-Benz,4,Turquoise,XM22ZF4424,diesel
+880,prime sedan,Silverado 3500,Chevrolet,2,Goldenrod,CR12GC5404,petrol
+881,prime sedan,CR-V,Honda,4,Orange,NC82ZL5444,diesel
+882,prime SUV,Veyron,Bugatti,3,Khaki,QL12CA5414,petrol
+883,prime SUV,Contour,Ford,2,Violet,QP92XF1404,petrol
+884,prime play,Sunbird,Pontiac,3,Purple,UZ92HS2464,petrol
+885,prime play,Montego,Mercury,3,Puce,FF22DF7484,diesel
+886,prime sedan,Rendezvous,Buick,3,Goldenrod,OP22TP2454,petrol
+887,prime sedan,Santa Fe,Hyundai,3,Turquoise,RY12RK9494,petrol
+888,prime SUV,900,Saab,3,Indigo,XD22QV3424,diesel
+889,prime sedan,Fleetwood,Cadillac,3,Puce,WX02FI9454,cng
+890,prime play,Sunbird,Pontiac,3,Red,ER92UO1494,diesel
+891,prime sedan,J,Infiniti,3,Aquamarine,FJ42SZ0404,diesel
+892,prime SUV,XJ,Jaguar,2,Aquamarine,BX52TW3414,petrol
+893,prime SUV,Outlander Sport,Mitsubishi,3,Indigo,AI42UP8444,petrol
+894,prime sedan,Cavalier,Chevrolet,3,Fuscia,RD22GO6494,cng
+895,prime sedan,Z4,BMW,5,Mauv,OT32AZ1434,diesel
+896,prime sedan,Escalade EXT,Cadillac,3,Maroon,IX12OS9464,petrol
+897,prime SUV,SC,Lexus,5,Teal,UE82MF3494,diesel
+898,prime sedan,F250,Ford,2,Violet,WA82WI9434,diesel
+899,prime play,Park Avenue,Buick,4,Mauv,WV32UP5474,cng
+900,prime sedan,Space,Isuzu,3,Orange,IT32UF4474,petrol
+901,prime sedan,2500,Ram,3,Pink,EE22IH1464,cng
+902,prime play,G,Infiniti,2,Turquoise,JQ52RE2404,petrol
+903,prime play,Challenger,Mitsubishi,4,Orange,QH22BM0414,diesel
+904,prime play,E-Class,Mercedes-Benz,5,Red,EV92QO6404,petrol
+905,prime sedan,Town & Country,Chrysler,4,Khaki,XY62CQ2474,diesel
+906,prime SUV,Outback,Subaru,5,Red,EV12LR0404,diesel
+907,prime SUV,Vitara,Suzuki,4,Indigo,ST42RJ8434,diesel
+908,prime play,F450,Ford,4,Green,JB42BJ6474,cng
+909,prime sedan,Vanquish S,Aston Martin,2,Maroon,AI92JJ8414,diesel
+910,prime SUV,Oasis,Isuzu,2,Puce,LG32AQ1414,diesel
+911,prime SUV,9000,Saab,3,Puce,HV12PV9414,petrol
+912,prime SUV,Z4,BMW,4,Yellow,AG22BI3444,petrol
+913,prime SUV,XC90,Volvo,5,Purple,OU72ZZ3424,petrol
+914,prime sedan,Sierra,GMC,4,Puce,HG22IV3444,petrol
+915,prime play,Legacy,Subaru,4,Maroon,BW92BA2474,petrol
+916,prime sedan,Grand Prix,Pontiac,3,Pink,MA32RZ5444,cng
+917,prime play,760,BMW,4,Yellow,DX52QN8424,diesel
+918,prime SUV,Samurai,Suzuki,3,Green,NX12JN1404,diesel
+919,prime play,Seville,Cadillac,3,Khaki,GW32FO8484,petrol
+920,prime sedan,Eclipse,Mitsubishi,4,Fuscia,DZ32TC1454,petrol
+921,prime sedan,Taurus,Ford,2,Puce,KN92JC6464,diesel
+922,prime play,Dakota,Dodge,4,Maroon,HY02CL0484,petrol
+923,prime play,200,Audi,5,Puce,KF62CE2464,diesel
+924,prime sedan,QX56,Infiniti,3,Violet,WL72AP7434,cng
+925,prime play,Suburban 1500,GMC,5,Aquamarine,SA12ER5474,diesel
+926,prime sedan,Altima,Nissan,4,Puce,DX32GP2444,cng
+927,prime SUV,F250,Ford,5,Red,DC02MI8464,cng
+928,prime sedan,Silverado 2500,Chevrolet,4,Green,CO72BS9404,petrol
+929,prime sedan,Montero,Mitsubishi,3,Violet,WC32TM9494,cng
+930,prime play,rio,Volkswagen,4,Aquamarine,NO72NC7484,diesel
+931,prime play,Legacy,Subaru,3,Teal,WC52XD5494,petrol
+932,prime SUV,Carens,Kia,3,Fuscia,ZK32HP4414,petrol
+933,prime play,xB,Scion,3,Crimson,VB32BX7484,cng
+934,prime SUV,Range Rover,Land Rover,3,Blue,FY42KB7444,diesel
+935,prime play,xB,Scion,3,Orange,IO42KO6424,petrol
+936,prime sedan,New Beetle,Volkswagen,3,Orange,VY22QZ9464,petrol
+937,prime play,V8 Vantage,Aston Martin,4,Violet,RR62UJ2464,diesel
+938,prime sedan,850,Volvo,4,Teal,AY02UL1404,petrol
+939,prime sedan,Supra,Toyota,3,Turquoise,UA42PM3464,petrol
+940,prime sedan,Chariot,Mitsubishi,4,Blue,CN22IT8424,petrol
+941,prime SUV,Trooper,Isuzu,3,Violet,XO42UK0464,petrol
+942,prime SUV,Accent,Hyundai,5,Indigo,XP42HR8464,petrol
+943,prime SUV,Range Rover,Land Rover,4,Puce,KM52AY7404,petrol
+944,prime SUV,V8 Vantage,Aston Martin,2,Teal,LN02VK3464,petrol
+945,prime sedan,Murano,Nissan,5,Fuscia,JD52TW4454,diesel
+946,prime play,TrailBlazer,Chevrolet,4,Green,AK92MQ5444,diesel
+947,prime play,Millenia,Mazda,4,Purple,SF22DI3494,cng
+948,prime play,IS,Lexus,4,Maroon,YR82ZI8424,petrol
+949,prime sedan,Mark VII,Lincoln,4,Khaki,YU02VC6464,diesel
+950,prime SUV,Avalon,Toyota,4,Crimson,XZ72GG4454,diesel
+951,prime SUV,Corvette,Chevrolet,3,Khaki,LF92JY8414,cng
+952,prime play,9-5,Saab,3,Blue,IG12TM7454,petrol
+953,prime SUV,Yukon,GMC,5,Violet,IQ22DR1474,petrol
+954,prime play,EX,Infiniti,4,Goldenrod,QV32MN5424,diesel
+955,prime SUV,Silverado 3500,Chevrolet,5,Orange,QV02NZ4414,petrol
+956,prime sedan,Thunderbird,Ford,4,Puce,FT12IS4494,petrol
+957,prime sedan,NSX,Acura,5,Orange,QY62QQ4474,diesel
+958,prime SUV,Montero,Mitsubishi,4,Pink,WI12NZ7444,cng
+959,prime sedan,Achieva,Oldsmobile,4,Maroon,VM72ZW9444,diesel
+960,prime play,Optima,Kia,3,Pink,DD22MC3404,diesel
+961,prime SUV,Avenger,Dodge,5,Mauv,PM12OE5434,diesel
+962,prime sedan,Insight,Honda,2,Green,CN02AN1494,petrol
+963,prime SUV,Cobalt SS,Chevrolet,2,Violet,QO32LV7414,cng
+964,prime play,Thunderbird,Ford,2,Turquoise,TU12BS1414,diesel
+965,prime play,Accord,Honda,4,Puce,XG72TJ7454,cng
+966,prime sedan,Ram Van 2500,Dodge,5,Red,VV62RU8484,diesel
+967,prime SUV,Fiesta,Ford,4,Khaki,ZC02OT8464,diesel
+968,prime play,STS,Cadillac,5,Crimson,NY72IO1424,diesel
+969,prime play,Ridgeline,Honda,3,Fuscia,BV52TU9474,cng
+970,prime sedan,Grand Voyager,Plymouth,3,Crimson,ZX72IJ0464,cng
+971,prime SUV,SLS AMG,Mercedes-Benz,3,Mauv,WV32DA4444,diesel
+972,prime sedan,Colt,Dodge,5,Puce,CB32PI7414,cng
+973,prime sedan,Flex,Ford,5,Fuscia,EJ32WL1404,cng
+974,prime sedan,XK Series,Jaguar,4,Indigo,YH12PK2474,cng
+975,prime sedan,300SL,Mercedes-Benz,4,Pink,RK32WU3474,diesel
+976,prime SUV,Outback,Subaru,2,Yellow,WN62NE6474,petrol
+977,prime play,Freelander,Land Rover,5,Puce,GX62PM1434,cng
+978,prime sedan,Sebring,Chrysler,2,Yellow,LF42UL3454,cng
+979,prime play,Summit,Eagle,2,Indigo,UR32QM1434,cng
+980,prime play,Ranger,Ford,4,Mauv,JE22ZL7424,petrol
+981,prime sedan,xB,Scion,3,Mauv,FM32MZ9414,cng
+982,prime SUV,GTI,Volkswagen,3,Red,KS12KY4464,petrol
+983,prime play,Sephia,Kia,2,Mauv,AV12TE6414,cng
+984,prime sedan,Loyale,Subaru,3,Purple,ZL92TR5404,petrol
+985,prime sedan,A6,Audi,2,Mauv,WK12KJ4464,diesel
+986,prime play,Elantra,Hyundai,4,Puce,GX62BN1444,diesel
+987,prime sedan,Aveo,Chevrolet,5,Mauv,LF62MY3404,cng
+988,prime sedan,Spirit,Dodge,4,Yellow,DC92LV3404,cng
+989,prime play,Land Cruiser,Toyota,3,Goldenrod,BC32OO0474,diesel
+990,prime sedan,Q,Infiniti,3,Orange,IO82OD3494,diesel
+991,prime play,Maxima,Nissan,2,Green,QI52OT4434,petrol
+992,prime SUV,Bronco II,Ford,2,Green,TZ42JB8424,diesel
+993,prime sedan,Cavalier,Chevrolet,4,Orange,GK02OM9484,petrol
+994,prime play,Fit,Honda,3,Green,OF02JM6454,diesel
+995,prime play,5000S,Audi,5,Green,UV42CG2484,cng
+996,prime play,Lancer,Mitsubishi,5,Violet,RV72CO2434,diesel
+997,prime play,Passat,Volkswagen,4,Puce,PF52SQ0404,cng
+998,prime SUV,Envoy XUV,GMC,4,Indigo,OP02TQ4484,cng
+999,prime SUV,Sidekick,Suzuki,4,Blue,ST82DT3444,diesel
+1000,prime sedan,Bronco II,Ford,3,Purple,QW72SU6424,cng
